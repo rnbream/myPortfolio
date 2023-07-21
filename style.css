@@ -17,7 +17,6 @@ body {
 
 /* header-section */
 .navigation-container {
-    background-color: #0055d3;
     display: flex;
     justify-content: end;
     height: 100px;
@@ -65,14 +64,11 @@ body {
     flex-direction: column;
 }
 .about-profile img {
-    height: 400px;
+    height: 600px;
     border-radius: 50%;
 }
 .job-role {
-    background-color: #0055d3;
-    color: #fff;
-    padding: 5px 15px;
-    font-size: 25px;
+    font-size: 50px;
 }
 .about-text {
     height: 100%;
@@ -82,7 +78,7 @@ body {
     margin-top: -15px;
 }
 .about-text p {
-    font-size: 20px;
+    font-size: 30px;
     text-align: justify;
 }
 
